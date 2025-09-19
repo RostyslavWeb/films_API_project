@@ -1,5 +1,7 @@
 # Films API project
 
+## Features:
+
 + using The Movie Database API
 + search films
 + films rate indicator (green, orange, red)
